@@ -1,8 +1,0 @@
-C:\Projects\Personal\Xtime\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Projects\Personal\Xtime\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Projects\Personal\Xtime\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Projects\Personal\Xtime\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\Personal\Xtime\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\Personal\Xtime\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Projects\Personal\Xtime\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Projects\Personal\Xtime\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
