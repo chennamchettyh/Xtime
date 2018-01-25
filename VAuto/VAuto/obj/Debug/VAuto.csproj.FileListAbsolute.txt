@@ -5,10 +5,3 @@ C:\Harsha\Xtime\Xtime\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
 C:\Harsha\Xtime\Xtime\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
 C:\Harsha\Xtime\Xtime\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Harsha\Xtime\Xtime\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-C:\Harsha\VAuto\VAuto\VAuto\bin\Debug\VAuto.exe.config
-C:\Harsha\VAuto\VAuto\VAuto\bin\Debug\VAuto.exe
-C:\Harsha\VAuto\VAuto\VAuto\bin\Debug\VAuto.pdb
-C:\Harsha\VAuto\VAuto\VAuto\bin\Debug\Newtonsoft.Json.dll
-C:\Harsha\VAuto\VAuto\VAuto\bin\Debug\Newtonsoft.Json.xml
-C:\Harsha\VAuto\VAuto\VAuto\obj\Debug\VAuto.exe
-C:\Harsha\VAuto\VAuto\VAuto\obj\Debug\VAuto.pdb
