@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace VAuto.Domain
+namespace VAuto.Models
 {
     public class Dealer
     {
@@ -14,8 +14,5 @@ namespace VAuto.Domain
         }
     }
 
-    public class Dealers
-    {
-       public List<Dealer> dealers { get; set; }
-    }
+    
 }

@@ -1,9 +1,9 @@
 ﻿using System.Runtime.Serialization;
 
-namespace VAuto.Domain
+namespace VAuto.Models
 {
     [DataContract]
-    public class Vehicle
+    public class VehicleViewModel
     {
         [DataMember]
         public int vehicleId { get; set; }
@@ -13,7 +13,5 @@ namespace VAuto.Domain
         public string make { get; set; }
         [DataMember]
         public string model { get; set; }
-        [DataMember]
-        public int dealerId { get; set; }
     }
 }

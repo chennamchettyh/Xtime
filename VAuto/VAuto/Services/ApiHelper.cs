@@ -4,9 +4,9 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace VAuto.Helper
+namespace VAuto.Services
 {
-    public static class GenericApiHelper<T>
+    public static class ApiHelper<T>
     {
         public static async Task<T> GetResult(string apiEndPoint)
         {

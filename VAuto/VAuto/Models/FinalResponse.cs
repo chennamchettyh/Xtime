@@ -1,4 +1,4 @@
-﻿namespace VAuto.Domain
+﻿namespace VAuto.Models
 {
     public class FinalResponse
     {

@@ -46,16 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Domain\FinalResponse.cs" />
-    <Compile Include="Domain\DataSet.cs" />
-    <Compile Include="Domain\Dealer.cs" />
-    <Compile Include="Domain\Vehicle.cs" />
-    <Compile Include="Domain\Vehicles.cs" />
-    <Compile Include="Domain\VehicleViewModel.cs" />
-    <Compile Include="Helper\ApiHelper.cs" />
-    <Compile Include="Helper\GenericApiHelper.cs" />
+    <Compile Include="Models\Dealers.cs" />
+    <Compile Include="Models\FinalResponse.cs" />
+    <Compile Include="Models\DataSet.cs" />
+    <Compile Include="Models\Dealer.cs" />
+    <Compile Include="Models\Vehicle.cs" />
+    <Compile Include="Models\Vehicles.cs" />
+    <Compile Include="Models\VehicleViewModel.cs" />
+    <Compile Include="Services\ApiHandler.cs" />
+    <Compile Include="Services\ApiHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\VAutoService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace VAuto.Domain
+namespace VAuto.Models
 {
     public class Vehicles
     {
